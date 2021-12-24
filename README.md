@@ -10,19 +10,17 @@ This CLI application provides a Rock Paper Scissors based game with computer. Ru
 ### How to install?
 
 - clone the repository: 
-  ```
-  git clone https://github.com/talianmalian/Itransition_task_4.git
-  ```
+```
+git clone https://github.com/talianmalian/Itransition_task_4.git
+```
 - install dependencies:
-
 ```
 npm install
 ```
 - open file app.js with arguments
-  ```
-  node app.js rock paper scissors 
-  ```
-
+```
+node app.js rock paper scissors 
+```
 To play classic game type: 
 ```
 node app.js rock scissors paper
